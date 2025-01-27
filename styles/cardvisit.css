@@ -1,0 +1,24 @@
+.border-card{
+    background-color: bisque;
+    border: 2px dotted rgb(135, 218, 239);
+    padding: 20px;
+    display: flex;
+    width: 450px;
+    height: 250px;
+}
+
+.image {
+    width: 120px;
+    height: 120px;
+}
+
+.personal-info {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.p {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
