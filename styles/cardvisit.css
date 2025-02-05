@@ -1,10 +1,18 @@
 .border-card{
     background-color: bisque;
-    border: 2px dotted rgb(135, 218, 239);
+    /* border: 2px dotted rgb(135, 218, 239); */
     padding: 20px;
     display: flex;
     width: 450px;
     height: 250px;
+    /* margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px; */
+    margin: 180px auto;
+    /* align-items: center; */
+    border-bottom: 4px solid rgb(73, 98, 10);
+    border-right: 4px solid rgb(70, 98, 10);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .image {
@@ -22,3 +30,10 @@
     margin-bottom: 5px;
 }
 
+.italic {
+    font-style: italic;
+}
+
+.dotted-border {
+    border: 2px dotted rgb(17, 125, 152);
+}
