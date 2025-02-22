@@ -1,6 +1,14 @@
 body {
-    background-image: url("/image/fall-autumn-red-season.jpg");
     color: white;
-    background-size: cover;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#background-image {
+    /* background-image: url("/image/landscape.gif"); */
+    /* background-size: cover; */
+}
+
+#image{
+    width: 100%;
+    height: 300px;
 }

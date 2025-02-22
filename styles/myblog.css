@@ -75,6 +75,8 @@ body{
     border-radius: 10px;
     border: 1px solid black;
     background-color: antiquewhite;
+    font-weight: 500;
+    color: red;
 }
 
 input{
@@ -102,4 +104,9 @@ input{
 
 .nav-wrapper .button-item {
     margin-right: 10px;
+}
+
+#contact {
+    color: yellow;
+    border-bottom: 2px solid red;
 }
